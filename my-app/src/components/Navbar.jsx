@@ -28,7 +28,7 @@ const Navbar = () => {
         >
           <p className="font-bold">Irises</p>
         </Link>
-ش
+
       </div>
     </nav>
   );
